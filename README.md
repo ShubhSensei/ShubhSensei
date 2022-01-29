@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Shubham Bansal</h1>
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sensationalshubham&label=Profile%20views&color=0e75b6&style=flat" alt="sensationalshubham" /> </p>
+<br/>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sensationalshubham" alt="sensationalshubham" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sensationalshubham&label=Profile%20views&color=0e75b6&style=flat" alt="sensationalshubham" /> </p>
 
 <p align="left"> <a href="https://twitter.com/imbansalshubham" target="blank"><img src="https://img.shields.io/twitter/follow/imbansalshubham?logo=twitter&style=for-the-badge" alt="imbansalshubham" /></a> </p>
 
@@ -12,6 +17,38 @@
 - 💬 Ask me about **Data Structures & Algorithms**
 
 - 📫 How to reach me **bansal4995@gmail.com**
+
+<br/>
+<br/>
+
+#
+
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=sensationalshubham&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+
+<p align="center">
+  <img height="150" width="150" src="WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sensationalshubham&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="WEBP/right.webp">
+</p>
+
+#
+
+<img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="GIF/github.gif">
+<br/>
+
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+<br/>
+<br/>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<!-- <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

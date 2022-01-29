@@ -8,8 +8,6 @@
 <br/>
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sensationalshubham&label=Profile%20views&color=0e75b6&style=flat" alt="sensationalshubham" /> </p> <p align="left"> <a href="https://twitter.com/imbansalshubham" target="blank"><img src="https://img.shields.io/twitter/follow/imbansalshubham?logo=twitter&style=for-the-badge" alt="imbansalshubham" /></a> </p>
-
 <img align="right" height="250" width="400" alt="GIF" src="GIF/code.gif">
 
 - 🤝 I’m looking for help with **Java related projects**

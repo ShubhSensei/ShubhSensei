@@ -3,18 +3,22 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a passionate frontend Java developer from India</h3>
 
 <br/>
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sensationalshubham&label=Profile%20views&color=0e75b6&style=flat" alt="sensationalshubham" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sensationalshubham&label=Profile%20views&color=0e75b6&style=flat" alt="sensationalshubham" /> </p> <p align="left"> <a href="https://twitter.com/imbansalshubham" target="blank"><img src="https://img.shields.io/twitter/follow/imbansalshubham?logo=twitter&style=for-the-badge" alt="imbansalshubham" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/imbansalshubham" target="blank"><img src="https://img.shields.io/twitter/follow/imbansalshubham?logo=twitter&style=for-the-badge" alt="imbansalshubham" /></a> </p>
+<img align="right" height="250" width="400" alt="GIF" src="GIF/code.gif">
 
 - 🤝 I’m looking for help with **Java related projects**
+- 🤖 Open Source Enthusiast
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜**
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **When you try to wash a spoon and it wash you back <<<😪**
 
-- 💬 Ask me about **Data Structures & Algorithms**
+- 💬 Ask me about **[Data Structures & Algorithms](https://github.com/SensationalShubham/Data-Structures-and-Algo.-in-java)**
 
 - 📫 How to reach me **bansal4995@gmail.com**
 
@@ -47,7 +51,10 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <!-- <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
 
-<h3 align="left">Connect with me:</h3>
+<h1>
+  Connect With Me
+  <img src="GIF/Handshake.gif" height="25px">
+</h1>
 <p align="left">
 <a href="https://twitter.com/imbansalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imbansalshubham" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sensationalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sensationalshubham" height="30" width="40" /></a>
@@ -61,6 +68,30 @@
 </p>
 
 <br/>
+<br/>
+
+#
+
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sensationalshubham&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sensationalshubham&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</details>
+<br>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sensationalshubham&theme=react-dark&hide_border=true&area=true)
+
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+
 <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sensationalshubham&show_icons=true&locale=en" alt="sensationalshubham" /></p>

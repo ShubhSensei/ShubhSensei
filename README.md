@@ -52,7 +52,7 @@
 <!-- <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
 
 <h1>
-  Connect With Me
+  I'm here
   <img src="GIF/Handshake.gif" height="25px">
 </h1>
 <p align="left">
@@ -93,7 +93,3 @@
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
 <br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sensationalshubham&show_icons=true&locale=en" alt="sensationalshubham" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sensationalshubham&show_icons=true&locale=en&layout=compact" alt="sensationalshubham" /></p>

@@ -25,6 +25,13 @@
 <br/>
 <br/>
 
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=sensationalshubham&label=Profile%20views&color=0e75b6&style=flat" alt="sensationalshubham" />•
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/SensationalShubham?label=Followers&style=social">•  
+  <img src="https://img.shields.io/github/stars/SensationalShubham?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">•
+  <a href="https://twitter.com/imbansalshubham" target="blank"><img src="https://img.shields.io/twitter/follow/imbansalshubham?logo=twitter&style=for-the-badge" alt="imbansalshubham" /></a>
+</p>
+
 #
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=sensationalshubham&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
@@ -40,7 +47,10 @@
 <img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="GIF/github.gif">
 <br/>
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+<h2>
+𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 & 𝚃𝙾𝙾𝙻𝚂 :  
+</h2>
+
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
@@ -51,10 +61,10 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <!-- <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
 
-<h1>
-  I'm here
-  <img src="GIF/Handshake.gif" height="25px">
-</h1>
+<h2>
+  Hey, I'm here     
+    <img src="GIF/Handshake.gif" height="25px">
+</h2>
 <p align="left">
 <a href="https://twitter.com/imbansalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imbansalshubham" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sensationalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sensationalshubham" height="30" width="40" /></a>
@@ -81,12 +91,12 @@
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sensationalshubham&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sensationalshubham&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SensationalShubham&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sensationalshubham&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=SensationalShubham&theme=react-dark&hide_border=true&area=true)
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 

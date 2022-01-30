@@ -98,6 +98,6 @@
 
 ![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](./github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/sensationalshubham/sensationalshubham/blob/output/github-contribution-grid-snake.gif)
 
 <br/>

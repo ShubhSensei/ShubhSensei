@@ -64,15 +64,16 @@
     <img src="GIF/Handshake.gif" height="25px">
 </h2>
 <p align="left">
-<a href="https://twitter.com/imbansalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imbansalshubham" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sensationalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sensationalshubham" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubham_bansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubham_bansal" height="30" width="40" /></a>
-<a href="https://codepen.io/imbansalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="imbansalshubham" height="30" width="40" /></a>
-<a href="https://dev.to/sensationalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sensationalshubham" height="30" width="40" /></a>
-<a href="https://instagram.com/_sensationalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sensationalshubham" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCwrXiXUbphJ7JMVVfWlYsvQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubham bansal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shubham_2710" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubham_2710" height="30" width="40" /></a>
-
+<code><a href="https://twitter.com/imbansalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imbansalshubham" height="30" width="40" /></a></code>
+<code><a href="https://linkedin.com/in/sensationalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sensationalshubham" height="30" width="40" /></a></code>
+<code><a href="https://www.leetcode.com/shubham_bansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubham_bansal" height="30" width="40" /></a></code>
+<code><a href="https://codepen.io/imbansalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="imbansalshubham" height="30" width="40" /></a></code>
+<code><a href="https://dev.to/sensationalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sensationalshubham" height="30" width="40" /></a></code>
+<code><a href="https://instagram.com/_sensationalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sensationalshubham" height="30" width="40" /></a></code>
+<code><a href="https://www.youtube.com/channel/UCwrXiXUbphJ7JMVVfWlYsvQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubham bansal" height="30" width="40" /></a></code>
+<code><a href="https://www.codechef.com/users/shubham_2710" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubham_2710" height="30" width="40" /></a></code>
+<!-- <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
+  
 </p>
 
 <br/>
@@ -89,7 +90,7 @@
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sensationalshubham&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sensationalshubham&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sensationalshubham&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
 <br>

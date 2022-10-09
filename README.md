@@ -10,13 +10,9 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="GIF/code.gif">
 
-- 🤝 I’m looking for help with **Java related projects**
 - 🤖 Open Source Enthusiast
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜**
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
+- 🌱 **Solidity Developer**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **When you try to wash a spoon and it wash you back <<<😪**
-
-- 💬 Ask me about **[Data Structures & Algorithms](https://github.com/SensationalShubham/Data-Structures-and-Algo.-in-java)**
 
 - 📫 How to reach me **bansal4995@gmail.com**
 

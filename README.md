@@ -99,6 +99,6 @@
   Careful, there's a snake here 😱
 </h3>
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/sensationalshubham/sensationalshubham/blob/output/github-contribution-grid-snake.gif)
+<!-- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/sensationalshubham/sensationalshubham/blob/output/github-contribution-grid-snake.gif) -->
 
 <br/>

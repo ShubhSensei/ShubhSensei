@@ -36,21 +36,17 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SensationalShubham&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=SensationalShubham&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SensationalShubham&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+</div> 
 
 #
 
 <img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="GIF/github.gif">
-<br/>
 
-<h2>
+<h2 align="center">
 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 & 𝚃𝙾𝙾𝙻𝚂 :  
 </h2>
-
-<br/>
-<br/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -75,11 +71,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-<h2>
+<br/>
+<br/>
+<br/>
+<br/>
+<h2 align="center">
   Hey, I'm here     
     <img src="GIF/Handshake.gif" height="25px">
 </h2>
-<p align="left">
+<p align="center">
 <code><a href="https://twitter.com/imbansalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imbansalshubham" height="30" width="40" /></a></code>
 <code><a href="https://linkedin.com/in/sensationalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sensationalshubham" height="30" width="40" /></a></code>
 <code><a href="https://www.leetcode.com/shubham_bansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubham_bansal" height="30" width="40" /></a></code>
@@ -87,10 +87,3 @@
 <code><a href="https://www.youtube.com/channel/UCwrXiXUbphJ7JMVVfWlYsvQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubham bansal" height="30" width="40" /></a></code>
   
 </p>
-
-<br/>
-<br/>
-
-#
-
-<br/>

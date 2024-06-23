@@ -19,25 +19,25 @@
 <br/>
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=sensationalshubham&label=Profile%20views&color=0e75b6&style=flat" alt="sensationalshubham" />•
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/SensationalShubham?label=Followers&style=social">•  
-  <img src="https://img.shields.io/github/stars/SensationalShubham?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">•
+  <img src="https://komarev.com/ghpvc/?username=shubhsensei&label=Profile%20views&color=0e75b6&style=flat" alt="shubhsensei" />•
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/shubhsensei?label=Followers&style=social">•  
+  <img src="https://img.shields.io/github/stars/shubhsensei?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">•
   <a href="https://twitter.com/imbansalshubham" target="blank"><img src="https://img.shields.io/twitter/follow/imbansalshubham?logo=twitter&style=for-the-badge" alt="imbansalshubham" /></a>
 </p>
 
 #
 
-<!-- ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=sensationalshubham&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh) -->
+<!-- ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=shubhsensei&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh) -->
 
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sensationalshubham&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhsensei&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=SensationalShubham&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SensationalShubham&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=shubhsensei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhsensei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div> 
 
 #
@@ -81,9 +81,9 @@
 </h2>
 <p align="center">
 <code><a href="https://twitter.com/imbansalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imbansalshubham" height="30" width="40" /></a></code>
-<code><a href="https://linkedin.com/in/sensationalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sensationalshubham" height="30" width="40" /></a></code>
+<code><a href="https://linkedin.com/in/shubhsensei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhsensei" height="30" width="40" /></a></code>
 <code><a href="https://www.leetcode.com/shubham_bansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubham_bansal" height="30" width="40" /></a></code>
-<code><a href="https://instagram.com/_sensationalshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sensationalshubham" height="30" width="40" /></a></code>
+<code><a href="https://instagram.com/_shubhsensei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shubhsensei" height="30" width="40" /></a></code>
 <code><a href="https://www.youtube.com/channel/UCwrXiXUbphJ7JMVVfWlYsvQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubham bansal" height="30" width="40" /></a></code>
   
 </p>

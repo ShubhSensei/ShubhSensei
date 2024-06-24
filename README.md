@@ -22,7 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=shubhsensei&label=Profile%20views&color=0e75b6&style=flat" alt="shubhsensei" />•
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/shubhsensei?label=Followers&style=social">•  
   <img src="https://img.shields.io/github/stars/shubhsensei?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">•
-  <a href="https://twitter.com/imbansalshubham" target="blank"><img src="https://img.shields.io/twitter/follow/imbansalshubham?logo=twitter&style=for-the-badge" alt="imbansalshubham" /></a>
+  <a href="https://twitter.com/shubhsensei" target="blank"><img src="https://img.shields.io/twitter/follow/shubhsensei?logo=twitter&style=for-the-badge" alt="shubhsensei" /></a>
 </p>
 
 #

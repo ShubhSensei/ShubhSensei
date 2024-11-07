@@ -28,12 +28,25 @@
   <img src="https://img.shields.io/github/stars/shubhsensei?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
 
+<br>
+<br>
+
+<br>
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+</div>
+
+<div align="center">
+  <br>
+  <img height="150" width="150" src="WEBP/left.webp">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhsensei&theme=transparent&hide_border=false" alt="GitHub Streak Stats"/>
+  <img height="150" width="150" src="WEBP/right.webp">
+</div>
 
 <br>
 <br>
-<br>
 
-<br>
 
 <div>
   <h2 align="center">
@@ -53,19 +66,6 @@
 </div>
 
 
-
-<br>
-<br>
-
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-</div>
-
-<div align="center">
-  <img height="150" width="150" src="WEBP/left.webp">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhsensei&theme=transparent&hide_border=true" alt="GitHub Streak Stats"/>
-  <img height="150" width="150" src="WEBP/right.webp">
-</div>
 
 <br>
 <br>
